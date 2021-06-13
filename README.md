@@ -5,7 +5,7 @@
 </div>
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Robot Motion Planning 🤖
@@ -86,6 +86,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/vinaykakkad"><img src="https://avatars.githubusercontent.com/u/56934712?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vinay Kakkad</b></sub></a><br /><a href="https://github.com/vinaykakkad/robot-motion-planning/commits?author=vinaykakkad" title="Code">💻</a></td>
+    <td align="center"><a href="http://www.linkedin.com/in/jap-purohit"><img src="https://avatars.githubusercontent.com/u/67332925?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jap Purohit</b></sub></a><br /><a href="https://github.com/vinaykakkad/robot-motion-planning/commits?author=jappurohit041" title="Code">💻</a></td>
   </tr>
 </table>
 
