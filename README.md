@@ -5,7 +5,7 @@
 </div>
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 # Robot Motion Planning 🤖
@@ -91,6 +91,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/PoojanSheth29"><img src="https://avatars.githubusercontent.com/u/66819037?v=4?s=100" width="100px;" alt=""/><br /><sub><b>PoojanSheth29</b></sub></a><br /><a href="https://github.com/vinaykakkad/robot-motion-planning/commits?author=PoojanSheth29" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Shail-1231"><img src="https://avatars.githubusercontent.com/u/77712707?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Shail-1231</b></sub></a><br /><a href="https://github.com/vinaykakkad/robot-motion-planning/commits?author=Shail-1231" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/sahilmiskeen95"><img src="https://avatars.githubusercontent.com/u/82269456?v=4?s=100" width="100px;" alt=""/><br /><sub><b>sahilmiskeen95</b></sub></a><br /><a href="https://github.com/vinaykakkad/robot-motion-planning/commits?author=sahilmiskeen95" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/rng4302"><img src="https://avatars.githubusercontent.com/u/79931225?v=4?s=100" width="100px;" alt=""/><br /><sub><b>rng4302</b></sub></a><br /><a href="https://github.com/vinaykakkad/robot-motion-planning/commits?author=rng4302" title="Code">💻</a></td>
   </tr>
 </table>
 
